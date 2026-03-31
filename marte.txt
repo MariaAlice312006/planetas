@@ -1,1 +1,2 @@
 tem duas luas: phobos e deimos
+deimos mata o lobisomem
